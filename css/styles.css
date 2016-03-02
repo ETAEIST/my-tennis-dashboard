@@ -1,0 +1,43 @@
+/* Resets */
+
+ul {
+	padding: 0;
+	margin: 0 0 20px 0;
+	list-style:none;
+}
+
+ul li {
+    padding:5px 0;
+}
+
+/*-------------*/
+
+#login li.link {
+	margin-top:5px;
+}
+
+/* Navigation */
+
+nav ul li {
+    display:inline;
+    margin-right:10px;
+}
+
+
+/* Aside */
+
+aside {
+	float:right;
+	padding-left:15px;
+}
+
+/* Containers */
+
+#container {
+	width:50%;
+	margin: auto;
+}
+header {
+
+}
+
